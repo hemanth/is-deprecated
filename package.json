@@ -1,0 +1,33 @@
+{
+  "name": "is-deprecated",
+  "version": "0.0.0",
+  "description": "Checks if a given function is deprecated.",
+  "license": "MIT",
+  "repository": "hemanth/is-deprecated",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "http://h3manth.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "type",
+    "detect",
+    "check",
+    "is",
+    "keyword",
+    "keywords",
+    "ES"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
