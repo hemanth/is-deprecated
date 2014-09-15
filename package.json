@@ -23,9 +23,7 @@
     "detect",
     "check",
     "is",
-    "keyword",
-    "keywords",
-    "ES"
+    "deprecated"
   ],
   "devDependencies": {
     "mocha": "*"
