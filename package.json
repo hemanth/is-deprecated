@@ -26,6 +26,6 @@
     "deprecated"
   ],
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "3.4.0"
   }
 }
